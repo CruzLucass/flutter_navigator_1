@@ -1,6 +1,6 @@
 # flutter_navigator_1
 
-A new Flutter project.
+Aplicativo flutter para estudo dos modos de navegação do flutter. Criado para utilização na disciplina de desenvolvimento mobile.
 
 ## Getting Started
 
